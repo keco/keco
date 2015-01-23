@@ -1,6 +1,6 @@
 # HMFAYSAL V2
 
-**[HMFAYSAL V2](http://v2.theevilgenius.tk)** is a two column responsive Jekyll theme by Engineer [Hossain Mohd Faysal](http://hmfaysal.tk) featuring a slide out drawer menu in mobile browsers.
+**[HMFAYSAL V2](http://keco.github.io)** is a two column responsive Jekyll theme by Engineer [Hossain Mohd Faysal](http://hmfaysal.tk) featuring a slide out drawer menu in mobile browsers.
 
 ## HMFAYSAL V2 is all about:
 
@@ -9,10 +9,10 @@
 * Minimal embellishments. Content first; other widget nonsense never.
 * Large feature images for posts and pages.
 * Simple and clear permalink structure.
-* [Custom 404 page](http://v2.theevilgenius.tk/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://v2.theevilgenius.tk/articles/code-highlighting-post/) to make your code examples look snazzy.
+* [Custom 404 page](http://keco.github.io/404.html) to get you started.
+* Stylesheets for Pygments and Coderay [syntax highlighting](http://keco.github.io/articles/code-highlighting-post/) to make your code examples look snazzy.
 
-![screenshot of HMFAYSAL V2 theme](http://v2.theevilgenius.tk/images/Jekyll-HMFAYSAL-Theme.jpg)
+![screenshot of HMFAYSAL V2 theme](http://keco.github.io/images/Jekyll-HMFAYSAL-Theme.jpg)
 
 General notes and suggestions for customizing HMFAYSAL V2 Theme.
 
@@ -25,7 +25,7 @@ General notes and suggestions for customizing HMFAYSAL V2 Theme.
 5. Check out the sample posts in `_posts` to see examples for pulling in large feature images, tags, and other YAML data.
 6. Read the documentation below for further customization pointers and documentation.
 
-[Demo the Theme](http://v2.theevilgenius.tk)
+[Demo the Theme](http://keco.github.io)
 
 **Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you don't want on your site. Also type in `chcp 65001` if the prompt shows UTF-8 or IBM47 error.
 
@@ -103,4 +103,4 @@ Having a problem getting something to work or want to know why I setup something
 
 ## License
 
-This theme is free and open source software, distributed under the [GNU General Public License](http://v2.theevilgenius.tk/LICENSE) version 2 or later. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
+This theme is free and open source software, distributed under the [GNU General Public License](http://keco.github.io/LICENSE) version 2 or later. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. 
