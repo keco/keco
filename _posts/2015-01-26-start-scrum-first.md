@@ -3,8 +3,8 @@ layout: blog
 title: Scrum实践-从简单开始第一步
 category: scrum
 tags: [scrum, 敏捷开发]  
-summary: Scrum实践-目录
-image: /images/blog/blogging-again.png
+summary: Scrum实践
+image: /images/blog/scrum.jpg
 ---
 
 - 如何开始第一步

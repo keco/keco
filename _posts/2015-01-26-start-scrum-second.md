@@ -3,8 +3,8 @@ layout: blog
 title: Scrum实践-白板
 category: scrum
 tags: [scrum, 敏捷开发]  
-summary: Scrum实践-目录
-image: /images/blog/blogging-again.png
+summary: Scrum实践
+image: /images/blog/scrum.jpg
 ---
 
 - 白板
